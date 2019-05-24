@@ -2,14 +2,14 @@
 
 
 
-## Installation
+## Instalação
 
 
 ```bash
 npm install
 ```
 
-## Usage
+## Executando
 
 ```python
 node aes.js
